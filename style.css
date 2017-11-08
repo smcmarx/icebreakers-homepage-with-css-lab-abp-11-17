@@ -6,3 +6,9 @@ body {
   padding-right: 30px;
   padding-left: 30px;
 }
+
+header {
+  height: 100px;
+  border-bottom: 1px;
+  border-bottom-color: #CCC;
+}
