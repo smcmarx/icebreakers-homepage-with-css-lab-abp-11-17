@@ -97,3 +97,12 @@ div.questions a.btn{
   padding: 18px;
   font-size: 20px;
 }
+
+footer {
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-top-color: #CCC;
+  margin-top: 80px;
+  padding-top: 20px;
+  color: #CCC;
+}
