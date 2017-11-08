@@ -103,7 +103,7 @@ div.questions a.btn:hover{
 }
 
 footer {
-  border-top-width: 1px;
+  border-top: 1px;
   border-top-style: solid;
   border-top-color: #CCC;
   margin-top: 80px;
