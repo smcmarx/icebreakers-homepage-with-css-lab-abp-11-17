@@ -42,3 +42,8 @@ nav a:hover{
   float: left;
   font-size: 30px;
 }
+
+#header a{
+  text-decorations: none;
+  color: #868e96;
+}
